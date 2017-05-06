@@ -18,6 +18,9 @@ This app will create a burger logger with MySQL, Node, Express, Handlebars and a
 
 The application is composed on the following structure:
 
+
+```
+.
 ├── config
 │   ├── connection.js
 │   └── orm.js
@@ -50,6 +53,9 @@ The application is composed on the following structure:
     ├── index.handlebars
     └── layouts
         └── main.handlebars
+```
+
+- - -
 
 ### Technology Used
 * Javascript
